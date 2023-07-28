@@ -163,12 +163,6 @@ git clone https://github.com/iamsivab/Text-Mining-in-R.git
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/iamsivab) [![Twitter Follow](https://img.shields.io/twitter/follow/iamsivab?style=social)](https://twitter.com/iamsivab)
 
 
-### License
-
-MIT &copy; [Sivasubramanian](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE)
-
-[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/0)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/0)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/1)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/1)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/2)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/2)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/3)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/3)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/4)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/4)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/5)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/5)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/6)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/6)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/7)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/7)
-
 
 [![GitHub license](https://img.shields.io/github/license/iamsivab/Text-Mining-in-R.svg?style=social&logo=github)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE) 
 [![GitHub forks](https://img.shields.io/github/forks/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/network) [![GitHub stars](https://img.shields.io/github/stars/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/stargazers) [![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?label=Follow&style=social)](https://github.com/iamsivab/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/iamsivab/ama)
