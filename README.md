@@ -154,15 +154,3 @@ git clone https://github.com/iamsivab/Text-Mining-in-R.git
 
 - Make changes and send [Pull Request](https://github.com/iamsivab/Text-Mining-in-R/pulls).
  
-### Need help?
-
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@iamsivab&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/iamsivab)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@iamsivab&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/iamsivab/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@iamsivab&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/iamsivab/)
-
-:email: Feel free to contact me @ [balasiva001@gmail.com](https://mail.google.com/mail/)
-
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/iamsivab) [![Twitter Follow](https://img.shields.io/twitter/follow/iamsivab?style=social)](https://twitter.com/iamsivab)
-
-
-
-[![GitHub license](https://img.shields.io/github/license/iamsivab/Text-Mining-in-R.svg?style=social&logo=github)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE) 
-[![GitHub forks](https://img.shields.io/github/forks/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/network) [![GitHub stars](https://img.shields.io/github/stars/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/stargazers) [![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?label=Follow&style=social)](https://github.com/iamsivab/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/iamsivab/ama)
